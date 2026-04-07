@@ -1,0 +1,10 @@
+# requirements.txt
+# Core
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Optional: GPU acceleration (install the CUDA build of PyTorch instead)
+# See: https://pytorch.org/get-started/locally/
